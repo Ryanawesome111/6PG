@@ -2,10 +2,10 @@
 Customize many different modules including:
 Announce, Auto-mod, General, Leveling, Music, and more!
 
-**Dashboard**: https://github.com/theADAMJR/6PG-Dashboard
+**Dashboard**: https://github.com/ryanawesome111/6PG-Dashboard
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theADAMJR/6PG/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ryanawesome111/6PG/tree/master)
 
 ---
 
