@@ -6,7 +6,7 @@
     "discord bot maker",
     "6pg"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "https://github.com/theadamjr/6PG",
   "env": {
     "API_URL": {
       "description": "Same as DASHBOARD_URL, but with /api at the end.",
@@ -14,11 +14,11 @@
     },
     "CLIENT_ID": {
       "description": "Client ID from https://discord.com/developers.",    
-      "value": ""
+      "value": "793180240897245205"
     },
     "CLIENT_SECRET": {
       "description": "Client Secret from https://discord.com/developers.",    
-      "value": ""
+      "value": "Q6txV_3CdZfU-jd_zVf0KVhJ3ltGD5VS"
     },
     "DASHBOARD_URL": {
       "description": "The Website URL [https://<heroku_app_name>.herokuapp.com]",    
@@ -30,7 +30,7 @@
     },
     "MONGO_URI": {
       "description": "The MongoDB URI to your database [i.e. from MongoDB Atlas].",
-      "value": "mongodb+srv://<username>:<password>@<hostname>/6PG?retryWrites=true&w=majority"
+      "value": "mongodb+srv://user1:m9Z0u1suZkZTwCty@cluster0.0usww.mongodb.net/growyoursever?retryWrites=true&w=majority"
     },
     "PORT": {
       "description": "Port for Heroku to use (default: 3000).",
